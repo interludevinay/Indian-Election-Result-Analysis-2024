@@ -218,7 +218,7 @@ ORDER BY state DESC
 1. **Load the CSV Data**: Open Power BI Desktop and load the CSV file containing the election results.
 2. **Create Visualizations**: Use various Power BI features to create charts and dashboards to visualize the election results. For example, you can create bar charts to compare the number of seats won by different parties in each state, pie charts to show the proportion of seats won by each party, and maps to visualize the geographic distribution of election results.
 
-![og_bi](https://github.com/user-attachments/assets/5edb0fd9-2d91-4993-92d8-7a9a65950767)
+![Screenshot 2024-07-14 231037](https://github.com/user-attachments/assets/394350c3-b614-4089-b224-342b75c4be2e)
 
 ### Using Python Libraries
 Use matplotlib, seaborn, and plotly to create visualizations in Python.
